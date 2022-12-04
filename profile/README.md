@@ -1,4 +1,4 @@
-<img src='./img/catbowlogo.png' style='width:100px;'/> <span style='font-size:100px; margin-left:20px;'>Catbow<sapn>
+<img src='https://i.ibb.co/1G0n2X6/catbowlogo.png' style='width:100px;'/> <span style='font-size:100px; margin-left:20px;'>Catbow<sapn>
 
 ## Interactive React-Components library
 
